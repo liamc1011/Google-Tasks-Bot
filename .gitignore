@@ -1,0 +1,8 @@
+# vscode
+*.code-workspace
+
+# virtual environment
+env/
+
+# DS store
+*.DS_Store
