@@ -2,7 +2,7 @@
 *.code-workspace
 
 # virtual environment
-env/
+venv/
 
 # DS store
 *.DS_Store
