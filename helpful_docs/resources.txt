@@ -1,0 +1,15 @@
+my problem is with my refresh token expiring after 7 days
+
+expiring refresh tokens
+https://stackoverflow.com/questions/8953983/do-google-refresh-tokens-expire
+https://developers.google.com/identity/protocols/oauth2#expiration
+
+oauth2 for desktop apps
+https://developers.google.com/identity/protocols/oauth2/native-app
+https://developers.google.com/identity/protocols/oauth2
+
+access type offline? prompt = consent?
+https://github.com/googleapis/google-api-python-client/issues/213
+
+python client library docs (google oauth2 credentials)
+https://google-auth.readthedocs.io/en/latest/reference/google.oauth2.credentials.html

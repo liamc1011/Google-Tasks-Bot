@@ -6,3 +6,13 @@ venv/
 
 # DS store
 *.DS_Store
+
+# sensitive credential files
+credentials.json
+token.json
+
+# potentially sensitive files
+helpful_docs/Example*
+
+# old main.py i'm keeping for whatever reason
+old main.py
